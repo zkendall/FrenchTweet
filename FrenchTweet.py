@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------------
 # Name:        ExampleScraper
 # Purpose:     Get good example sentences of French words.
-# Author:      ZKendall\
+# Author:      ZKendall
 # Notes:
 #-------------------------------------------------------------------------------
 
