@@ -173,8 +173,8 @@ def main():
         example.save()
 
         # Time out
-        print "Pausing for 4 hours..."
-        time.sleep(14400)
+        print "Pausing for 6 hours..."
+        time.sleep(21600)
         print "Resuming..."
 
 def getExample():
