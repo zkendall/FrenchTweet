@@ -1,3 +1,4 @@
+#!/home/syszachariah/env/bin/python
 #-------------------------------------------------------------------------------
 # Name:        ExampleScraper
 # Purpose:     Get good example sentences of French words.
@@ -37,7 +38,7 @@ def get_examples(word):
     content = StringIO.StringIO(urllib2.urlopen(req).read())
 
     parser = etree.HTMLParser()
-    tree   = etree.parse(content, parser)
+    tree = etree.parse(content, parser)
 
     xpath = "//td[@class='FrEx']"
     res = tree.xpath(xpath)
