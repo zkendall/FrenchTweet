@@ -1,7 +1,7 @@
 FrenchTweet
 ==========
 
-Scrape example sentences from WordReference.com and tweet them.
+Scrape example French sentences from WordReference.com and tweet them every 6 hours.
 
 
-It's hosted on Heroku and can bee seen running here: https://twitter.com/FrenchExamples
+It can bee seen running here: https://twitter.com/FrenchExamples
